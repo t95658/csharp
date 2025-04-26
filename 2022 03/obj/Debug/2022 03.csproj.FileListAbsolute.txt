@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\c#\2022 03\bin\Debug\2022 03.exe.config
+C:\Users\USER\Desktop\c#\2022 03\bin\Debug\2022 03.exe
+C:\Users\USER\Desktop\c#\2022 03\bin\Debug\2022 03.pdb
+C:\Users\USER\Desktop\c#\2022 03\obj\Debug\2022 03.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\2022 03\obj\Debug\_2022_03.Form1.resources
+C:\Users\USER\Desktop\c#\2022 03\obj\Debug\_2022_03.Properties.Resources.resources
+C:\Users\USER\Desktop\c#\2022 03\obj\Debug\2022 03.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\c#\2022 03\obj\Debug\2022 03.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\2022 03\obj\Debug\2022 03.exe
+C:\Users\USER\Desktop\c#\2022 03\obj\Debug\2022 03.pdb
