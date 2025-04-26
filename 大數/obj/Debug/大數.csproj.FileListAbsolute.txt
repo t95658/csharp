@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\c#\大數\bin\Debug\大數.exe.config
+C:\Users\USER\Desktop\c#\大數\bin\Debug\大數.exe
+C:\Users\USER\Desktop\c#\大數\bin\Debug\大數.pdb
+C:\Users\USER\Desktop\c#\大數\obj\Debug\大數.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\大數\obj\Debug\大數.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\大數\obj\Debug\大數.exe
+C:\Users\USER\Desktop\c#\大數\obj\Debug\大數.pdb

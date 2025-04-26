@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\c#\大數乘法\bin\Debug\大數乘法.exe.config
+C:\Users\USER\Desktop\c#\大數乘法\bin\Debug\大數乘法.exe
+C:\Users\USER\Desktop\c#\大數乘法\bin\Debug\大數乘法.pdb
+C:\Users\USER\Desktop\c#\大數乘法\obj\Debug\大數乘法.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\大數乘法\obj\Debug\大數乘法.Form1.resources
+C:\Users\USER\Desktop\c#\大數乘法\obj\Debug\大數乘法.Properties.Resources.resources
+C:\Users\USER\Desktop\c#\大數乘法\obj\Debug\大數乘法.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\c#\大數乘法\obj\Debug\大數乘法.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\大數乘法\obj\Debug\大數乘法.exe
+C:\Users\USER\Desktop\c#\大數乘法\obj\Debug\大數乘法.pdb
