@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\c#\10404\bin\Debug\10404.exe.config
+C:\Users\USER\Desktop\c#\10404\bin\Debug\10404.exe
+C:\Users\USER\Desktop\c#\10404\bin\Debug\10404.pdb
+C:\Users\USER\Desktop\c#\10404\obj\Debug\10404.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\10404\obj\Debug\10404.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\10404\obj\Debug\10404.exe
+C:\Users\USER\Desktop\c#\10404\obj\Debug\10404.pdb
