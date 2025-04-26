@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\c#\10402\bin\Debug\10402.exe.config
+C:\Users\USER\Desktop\c#\10402\bin\Debug\10402.exe
+C:\Users\USER\Desktop\c#\10402\bin\Debug\10402.pdb
+C:\Users\USER\Desktop\c#\10402\obj\Debug\10402.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\10402\obj\Debug\_10402.Form1.resources
+C:\Users\USER\Desktop\c#\10402\obj\Debug\_10402.Properties.Resources.resources
+C:\Users\USER\Desktop\c#\10402\obj\Debug\10402.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\c#\10402\obj\Debug\10402.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\10402\obj\Debug\10402.exe
+C:\Users\USER\Desktop\c#\10402\obj\Debug\10402.pdb
