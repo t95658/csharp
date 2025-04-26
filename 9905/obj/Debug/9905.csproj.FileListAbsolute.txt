@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\c#\9905\bin\Debug\9905.exe.config
+C:\Users\USER\Desktop\c#\9905\bin\Debug\9905.exe
+C:\Users\USER\Desktop\c#\9905\bin\Debug\9905.pdb
+C:\Users\USER\Desktop\c#\9905\obj\Debug\9905.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\9905\obj\Debug\_9905.Form1.resources
+C:\Users\USER\Desktop\c#\9905\obj\Debug\_9905.Properties.Resources.resources
+C:\Users\USER\Desktop\c#\9905\obj\Debug\9905.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\c#\9905\obj\Debug\9905.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\9905\obj\Debug\9905.exe
+C:\Users\USER\Desktop\c#\9905\obj\Debug\9905.pdb

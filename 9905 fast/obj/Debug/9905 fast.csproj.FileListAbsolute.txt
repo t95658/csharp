@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\c#\9905 fast\bin\Debug\9905 fast.exe.config
+C:\Users\USER\Desktop\c#\9905 fast\bin\Debug\9905 fast.exe
+C:\Users\USER\Desktop\c#\9905 fast\bin\Debug\9905 fast.pdb
+C:\Users\USER\Desktop\c#\9905 fast\obj\Debug\9905 fast.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\9905 fast\obj\Debug\_9905_fast.Form1.resources
+C:\Users\USER\Desktop\c#\9905 fast\obj\Debug\_9905_fast.Properties.Resources.resources
+C:\Users\USER\Desktop\c#\9905 fast\obj\Debug\9905 fast.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\c#\9905 fast\obj\Debug\9905 fast.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\9905 fast\obj\Debug\9905 fast.exe
+C:\Users\USER\Desktop\c#\9905 fast\obj\Debug\9905 fast.pdb
