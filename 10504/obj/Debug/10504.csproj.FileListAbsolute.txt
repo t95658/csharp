@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\c#\10504\bin\Debug\10504.exe.config
+C:\Users\USER\Desktop\c#\10504\bin\Debug\10504.exe
+C:\Users\USER\Desktop\c#\10504\bin\Debug\10504.pdb
+C:\Users\USER\Desktop\c#\10504\obj\Debug\10504.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\10504\obj\Debug\_10504.Properties.Resources.resources
+C:\Users\USER\Desktop\c#\10504\obj\Debug\10504.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\c#\10504\obj\Debug\10504.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\10504\obj\Debug\10504.exe
+C:\Users\USER\Desktop\c#\10504\obj\Debug\10504.pdb
+C:\Users\USER\Desktop\c#\10504\obj\Debug\_10504.Form1.resources
