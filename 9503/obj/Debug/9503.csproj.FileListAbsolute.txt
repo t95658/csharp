@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\c#\9503\bin\Debug\9503.exe.config
+C:\Users\USER\Desktop\c#\9503\bin\Debug\9503.exe
+C:\Users\USER\Desktop\c#\9503\bin\Debug\9503.pdb
+C:\Users\USER\Desktop\c#\9503\obj\Debug\9503.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\9503\obj\Debug\_9503.Form1.resources
+C:\Users\USER\Desktop\c#\9503\obj\Debug\_9503.Properties.Resources.resources
+C:\Users\USER\Desktop\c#\9503\obj\Debug\9503.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\c#\9503\obj\Debug\9503.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\9503\obj\Debug\9503.exe
+C:\Users\USER\Desktop\c#\9503\obj\Debug\9503.pdb

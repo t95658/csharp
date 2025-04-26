@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\c#\9506\bin\Debug\9506.exe.config
+C:\Users\USER\Desktop\c#\9506\bin\Debug\9506.exe
+C:\Users\USER\Desktop\c#\9506\bin\Debug\9506.pdb
+C:\Users\USER\Desktop\c#\9506\obj\Debug\9506.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\9506\obj\Debug\9506.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\9506\obj\Debug\9506.exe
+C:\Users\USER\Desktop\c#\9506\obj\Debug\9506.pdb
