@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\c#\98-3\bin\Debug\98-3.exe.config
+C:\Users\USER\Desktop\c#\98-3\bin\Debug\98-3.exe
+C:\Users\USER\Desktop\c#\98-3\bin\Debug\98-3.pdb
+C:\Users\USER\Desktop\c#\98-3\obj\Debug\98-3.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\98-3\obj\Debug\_98_3.Form1.resources
+C:\Users\USER\Desktop\c#\98-3\obj\Debug\_98_3.Properties.Resources.resources
+C:\Users\USER\Desktop\c#\98-3\obj\Debug\98-3.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\c#\98-3\obj\Debug\98-3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\98-3\obj\Debug\98-3.exe
+C:\Users\USER\Desktop\c#\98-3\obj\Debug\98-3.pdb
