@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\11003\bin\Debug\11003.exe.config
+C:\Users\USER\source\repos\11003\bin\Debug\11003.exe
+C:\Users\USER\source\repos\11003\bin\Debug\11003.pdb
+C:\Users\USER\source\repos\11003\obj\Debug\11003.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\11003\obj\Debug\11003.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\11003\obj\Debug\11003.exe
+C:\Users\USER\source\repos\11003\obj\Debug\11003.pdb
