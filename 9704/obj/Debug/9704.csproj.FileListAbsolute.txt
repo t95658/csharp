@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\c#\9704\bin\Debug\9704.exe.config
+C:\Users\USER\Desktop\c#\9704\bin\Debug\9704.exe
+C:\Users\USER\Desktop\c#\9704\bin\Debug\9704.pdb
+C:\Users\USER\Desktop\c#\9704\obj\Debug\9704.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\9704\obj\Debug\_9704.Form1.resources
+C:\Users\USER\Desktop\c#\9704\obj\Debug\_9704.Properties.Resources.resources
+C:\Users\USER\Desktop\c#\9704\obj\Debug\9704.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\c#\9704\obj\Debug\9704.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\9704\obj\Debug\9704.exe
+C:\Users\USER\Desktop\c#\9704\obj\Debug\9704.pdb

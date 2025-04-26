@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\c#\9901\bin\Debug\9901.exe.config
+C:\Users\USER\Desktop\c#\9901\bin\Debug\9901.exe
+C:\Users\USER\Desktop\c#\9901\bin\Debug\9901.pdb
+C:\Users\USER\Desktop\c#\9901\obj\Debug\9901.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\9901\obj\Debug\_9901.Form1.resources
+C:\Users\USER\Desktop\c#\9901\obj\Debug\_9901.Properties.Resources.resources
+C:\Users\USER\Desktop\c#\9901\obj\Debug\9901.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\c#\9901\obj\Debug\9901.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\9901\obj\Debug\9901.exe
+C:\Users\USER\Desktop\c#\9901\obj\Debug\9901.pdb

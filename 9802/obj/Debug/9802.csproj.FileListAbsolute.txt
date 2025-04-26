@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\c#\9802\bin\Debug\9802.exe.config
+C:\Users\USER\Desktop\c#\9802\bin\Debug\9802.exe
+C:\Users\USER\Desktop\c#\9802\bin\Debug\9802.pdb
+C:\Users\USER\Desktop\c#\9802\obj\Debug\9802.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\9802\obj\Debug\9802.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\9802\obj\Debug\9802.exe
+C:\Users\USER\Desktop\c#\9802\obj\Debug\9802.pdb
