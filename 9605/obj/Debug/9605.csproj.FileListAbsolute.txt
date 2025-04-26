@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\c#\9605\bin\Debug\9605.exe.config
+C:\Users\USER\Desktop\c#\9605\bin\Debug\9605.exe
+C:\Users\USER\Desktop\c#\9605\bin\Debug\9605.pdb
+C:\Users\USER\Desktop\c#\9605\obj\Debug\9605.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\9605\obj\Debug\9605.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\9605\obj\Debug\9605.exe
+C:\Users\USER\Desktop\c#\9605\obj\Debug\9605.pdb
