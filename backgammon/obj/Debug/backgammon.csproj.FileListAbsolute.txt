@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\c#\backgammon\bin\Debug\backgammon.exe.config
+C:\Users\USER\Desktop\c#\backgammon\bin\Debug\backgammon.exe
+C:\Users\USER\Desktop\c#\backgammon\bin\Debug\backgammon.pdb
+C:\Users\USER\Desktop\c#\backgammon\obj\Debug\backgammon.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\backgammon\obj\Debug\backgammon.Form1.resources
+C:\Users\USER\Desktop\c#\backgammon\obj\Debug\backgammon.Properties.Resources.resources
+C:\Users\USER\Desktop\c#\backgammon\obj\Debug\backgammon.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\c#\backgammon\obj\Debug\backgammon.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\backgammon\obj\Debug\backgammon.exe
+C:\Users\USER\Desktop\c#\backgammon\obj\Debug\backgammon.pdb

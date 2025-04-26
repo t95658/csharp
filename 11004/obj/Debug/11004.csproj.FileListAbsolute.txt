@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\11004\bin\Debug\11004.exe.config
+C:\Users\USER\source\repos\11004\bin\Debug\11004.exe
+C:\Users\USER\source\repos\11004\bin\Debug\11004.pdb
+C:\Users\USER\source\repos\11004\obj\Debug\11004.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\11004\obj\Debug\11004.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\11004\obj\Debug\11004.exe
+C:\Users\USER\source\repos\11004\obj\Debug\11004.pdb
+C:\Users\USER\Desktop\c#\11004\bin\Debug\11004.exe.config
+C:\Users\USER\Desktop\c#\11004\bin\Debug\11004.exe
+C:\Users\USER\Desktop\c#\11004\bin\Debug\11004.pdb
+C:\Users\USER\Desktop\c#\11004\obj\Debug\11004.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\11004\obj\Debug\11004.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\11004\obj\Debug\11004.exe
+C:\Users\USER\Desktop\c#\11004\obj\Debug\11004.pdb
