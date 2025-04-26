@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\c#\draw2\bin\Debug\draw2.exe.config
+C:\Users\USER\Desktop\c#\draw2\bin\Debug\draw2.exe
+C:\Users\USER\Desktop\c#\draw2\bin\Debug\draw2.pdb
+C:\Users\USER\Desktop\c#\draw2\obj\Debug\draw2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\draw2\obj\Debug\draw2.Form1.resources
+C:\Users\USER\Desktop\c#\draw2\obj\Debug\draw2.Properties.Resources.resources
+C:\Users\USER\Desktop\c#\draw2\obj\Debug\draw2.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\c#\draw2\obj\Debug\draw2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\draw2\obj\Debug\draw2.exe
+C:\Users\USER\Desktop\c#\draw2\obj\Debug\draw2.pdb

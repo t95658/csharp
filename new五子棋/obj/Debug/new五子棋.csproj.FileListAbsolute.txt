@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\c#\new五子棋\bin\Debug\new五子棋.exe.config
+C:\Users\USER\Desktop\c#\new五子棋\bin\Debug\new五子棋.exe
+C:\Users\USER\Desktop\c#\new五子棋\bin\Debug\new五子棋.pdb
+C:\Users\USER\Desktop\c#\new五子棋\obj\Debug\new五子棋.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\new五子棋\obj\Debug\new五子棋.Form1.resources
+C:\Users\USER\Desktop\c#\new五子棋\obj\Debug\new五子棋.Properties.Resources.resources
+C:\Users\USER\Desktop\c#\new五子棋\obj\Debug\new五子棋.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\c#\new五子棋\obj\Debug\new五子棋.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\new五子棋\obj\Debug\new五子棋.exe
+C:\Users\USER\Desktop\c#\new五子棋\obj\Debug\new五子棋.pdb
