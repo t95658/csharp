@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\c#\北軟9904\bin\Debug\北軟9904.exe.config
+C:\Users\USER\Desktop\c#\北軟9904\bin\Debug\北軟9904.exe
+C:\Users\USER\Desktop\c#\北軟9904\bin\Debug\北軟9904.pdb
+C:\Users\USER\Desktop\c#\北軟9904\obj\Debug\北軟9904.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\北軟9904\obj\Debug\北軟9904.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\北軟9904\obj\Debug\北軟9904.exe
+C:\Users\USER\Desktop\c#\北軟9904\obj\Debug\北軟9904.pdb
