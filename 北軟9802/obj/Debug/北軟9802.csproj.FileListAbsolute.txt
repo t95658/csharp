@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\c#\北軟9802\bin\Debug\北軟9802.exe.config
+C:\Users\USER\Desktop\c#\北軟9802\bin\Debug\北軟9802.exe
+C:\Users\USER\Desktop\c#\北軟9802\bin\Debug\北軟9802.pdb
+C:\Users\USER\Desktop\c#\北軟9802\obj\Debug\北軟9802.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\北軟9802\obj\Debug\北軟9802.Form1.resources
+C:\Users\USER\Desktop\c#\北軟9802\obj\Debug\北軟9802.Properties.Resources.resources
+C:\Users\USER\Desktop\c#\北軟9802\obj\Debug\北軟9802.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\c#\北軟9802\obj\Debug\北軟9802.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\北軟9802\obj\Debug\北軟9802.exe
+C:\Users\USER\Desktop\c#\北軟9802\obj\Debug\北軟9802.pdb
