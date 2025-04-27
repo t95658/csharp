@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\c#\小數點運算式\bin\Debug\小數點運算式.exe.config
+C:\Users\USER\Desktop\c#\小數點運算式\bin\Debug\小數點運算式.exe
+C:\Users\USER\Desktop\c#\小數點運算式\bin\Debug\小數點運算式.pdb
+C:\Users\USER\Desktop\c#\小數點運算式\obj\Debug\小數點運算式.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\小數點運算式\obj\Debug\小數點運算式.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\小數點運算式\obj\Debug\小數點運算式.exe
+C:\Users\USER\Desktop\c#\小數點運算式\obj\Debug\小數點運算式.pdb

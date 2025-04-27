@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\c#\中轉前\bin\Debug\中轉前.exe.config
+C:\Users\USER\Desktop\c#\中轉前\bin\Debug\中轉前.exe
+C:\Users\USER\Desktop\c#\中轉前\bin\Debug\中轉前.pdb
+C:\Users\USER\Desktop\c#\中轉前\obj\Debug\中轉前.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\中轉前\obj\Debug\中轉前.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\中轉前\obj\Debug\中轉前.exe
+C:\Users\USER\Desktop\c#\中轉前\obj\Debug\中轉前.pdb

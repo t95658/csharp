@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\c#\大數減法\bin\Debug\大數減法.exe.config
+C:\Users\USER\Desktop\c#\大數減法\bin\Debug\大數減法.exe
+C:\Users\USER\Desktop\c#\大數減法\bin\Debug\大數減法.pdb
+C:\Users\USER\Desktop\c#\大數減法\obj\Debug\大數減法.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c#\大數減法\obj\Debug\大數減法.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c#\大數減法\obj\Debug\大數減法.exe
+C:\Users\USER\Desktop\c#\大數減法\obj\Debug\大數減法.pdb
